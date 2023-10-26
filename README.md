@@ -2,7 +2,10 @@
 <h3 align="center">A passionate frontend developer and Python Developer</h3>
 
 - 💬 Ask me about **python, mysql, bootstrap, c++, JS**
--  Im
+-  🔭 I’m currently Upc student
+-  🤝 I’m looking for help with work at team
+-  🌱 I’m currently learning **Vue.js, React, flutter**
+-  I'm 18 years old student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
