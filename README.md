@@ -1,6 +1,8 @@
+<h1> Hi 👋, I'm LordMathi2741 </h1>
 <h3 align="center">A passionate frontend developer and Python Developer</h3>
 
 - 💬 Ask me about **python, mysql, bootstrap, c++, JS**
+-  Im
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
