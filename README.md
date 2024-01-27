@@ -1,11 +1,15 @@
 <h1> Hi 👋, I'm LordMathi2741 </h1>
 <h3 align="center">A passionate frontend developer and Python Developer</h3>
 
-- 💬 Ask me about **python, mysql, bootstrap, c++, JS**
+- 💬 Ask me about **Python, MySql, Bootstrap, c++, JS, Vue.js**
 -  🔭 I’m currently Upc student
 -  🤝 I’m looking for help with work at team
 -  🌱 I’m currently learning **Vue.js, React, flutter**
 -  I'm 18 years old student
+-  I apasionate by Frontend development 
+-  I enjoy to know new people :D
+-  I'm working to be one of the best of my class
+-  I'm working to be Vue developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
