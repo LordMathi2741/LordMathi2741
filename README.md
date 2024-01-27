@@ -1,5 +1,5 @@
 <h1> Hi 👋, I'm LordMathi2741 </h1>
-<h3 align="left">👩‍💻  About Me</h3>![image](https://github.com/LordMathi2741/LordMathi2741/assets/129223783/3d647ebe-bf50-433e-8a48-151a486723f4)
+<h3 align="left">👩‍💻  About Me</h3>
 <h3 align="center">A passionate frontend developer and Python Developer</h3>
 
 - 💬 Ask me about **Python, MySql, Bootstrap, c++, JS, Vue.js**
