@@ -1,4 +1,4 @@
-<h1> Hi 👋, I'm LordMathi2741 </h1>
+## <h1> Hi 👋, I'm LordMathi2741 </h1> ##
 <h3 align="left">👩‍💻  About Me</h3>
 <h3 align="center">A passionate frontend developer and Python Developer</h3>
 
