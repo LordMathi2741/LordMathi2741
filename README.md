@@ -26,9 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="" height="220" alt="streak graph"  />
 </div>
 
-###
-![image](https://github.com/LordMathi2741/LordMathi2741/assets/129223783/a58836f5-16c4-4877-824b-fe4852b47a47)
 
