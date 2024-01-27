@@ -1,4 +1,4 @@
-## <h1> Hi 👋, I'm LordMathi2741 </h1> ##
+### <h1> Hi 👋, I'm LordMathi2741 </h1> ###
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVrY29qOXFydG9qZGhvNGh3dnE1ZWVraG5iaWRrMWxtMWFkYTc4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mdfPpglf2c0QxED151/giphy.gif" >
 ## <h3 align="left">👩‍💻  About Me</h3> ##
 <h3 align="center">A passionate frontend developer and Python Developer</h3>
