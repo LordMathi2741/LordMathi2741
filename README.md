@@ -11,7 +11,6 @@
 -  I apasionate by FullStack development 
 -  I enjoy to know new people :D
 -  I'm working to be one of the best of my class
--  I'm working to be Vue developer
 
 ## <h3 align="left">Connect with me:</h3> ##
 <p align="left">
