@@ -4,7 +4,7 @@
 <h3 align="center">A passionate FullStack Developer</h3>
 
 - 💬 Ask me about **Angular, Vue.js, .Net, Spring, Next.js**
--  🔭 I’m currently Upc student
+-  🔭 I’m currently Software Ingeeniering student at Upc
 -  🤝 I’m looking for help with work at team
 -  🌱 I’m currently learning **.Net, Flutter, Next.js**
 -  I'm 19 years old student
