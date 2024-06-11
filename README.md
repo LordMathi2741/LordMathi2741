@@ -8,7 +8,7 @@
 -  🤝 I’m looking for help with work at team
 -  🌱 I’m currently learning **.Net, Flutter, Next.js**
 -  I'm 19 years old student
--  I apasionate by FullStack development 
+-  I'm apasionate for FullStack development 
 -  I enjoy to know new people :D
 -  I'm working to be one of the best of my class
 
