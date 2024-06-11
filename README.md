@@ -3,7 +3,7 @@
 ### <h3 align="left">👩‍💻  About Me</h3> ###
 <h3 align="center">A passionate FullStack Developer</h3>
 
-- 💬 Ask me about **React.js, Angular, Vue.js, .Net, Spring, Next.js**
+- 💬 Ask me about **Angular, Vue.js, .Net, Spring, Next.js**
 -  🔭 I’m currently Upc student
 -  🤝 I’m looking for help with work at team
 -  🌱 I’m currently learning **.Net, Flutter, Next.js**
