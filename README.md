@@ -36,6 +36,11 @@
       <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" width=30px />
     </div>
 
+    <li> <strong> Mobile Development: </strong> </li>
+    <div>
+       <img src="https://seekicon.com/free-icon-download/flutter_2.png" width=30px/>
+    </div>
+
   <li> <strong> Databases: </strong></li>
     <div>
       <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width=30px />
