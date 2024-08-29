@@ -39,7 +39,7 @@
    <li> <strong> Mobile Development: </strong> </li>
     <div>
        <img src="https://seekicon.com/free-icon-download/flutter_2.png" width=30px/>
-      <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" width=30px/>
+      <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" width=50px/>
     </div>
 
   <li> <strong> Databases: </strong></li>
