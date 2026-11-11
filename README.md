@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-Software Engineering student (9th semester, **UPC**) and Full-Stack Developer with **2+ years of experience in the financial sector**. Currently a Junior Software Engineer at **Western Union**, building and securing services with C# and .NET Core.
+Software Engineering graduate from **UPC** and Full-Stack Developer with **2+ years of experience in the financial sector**. Currently a Junior Software Engineer at **Western Union**, building and securing services with C# and .NET Core.
 
 - 🏦 Payment gateway integrations, RBAC and secure authentication (JWT, OKTA, CyberArk)
 - 🔐 Fixing OWASP Top 10 vulnerabilities flagged by Checkmarx
