@@ -66,7 +66,9 @@ Software Engineering student (9th semester, **UPC**) and Full-Stack Developer wi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LordMathi2741&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordMathi2741&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LordMathi2741&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LordMathi2741&theme=github_dark" alt="Top languages by commit" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LordMathi2741&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 </div>
